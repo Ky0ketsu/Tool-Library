@@ -1,0 +1,14 @@
+{
+    "name": "Ky0ketsu.Unity.Tool-Library",
+    "rootNamespace": "Ky0ketsu",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
